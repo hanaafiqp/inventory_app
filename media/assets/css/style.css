@@ -1,0 +1,29 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.card{
+    border-radius: 15px;
+}
+
+.bd-placeholder-img {
+    border-radius:15px !important;
+}
+
+.btn{
+    border-radius:10px !important;
+}
+
+.form-label{
+    margin-top:20px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
